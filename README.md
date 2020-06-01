@@ -1,3 +1,5 @@
-# Social-Media
+# Social_Media
 
-Database Name:  socialmedia
+Database Name:socialmedia
+
+Details about tables found in tables.sql
